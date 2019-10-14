@@ -18,9 +18,7 @@ WooIonic is an Ionic 3 Apps built for a Udemy Course [Ionic 3 Apps for WooCommer
 
 Checkout this repo, install dependencies, then start application:
 
-> git clone https://github.com/bayux/wooionic3.git
-> cd /app
-> npm install
-> ionic serve
- 
-
+ > git clone https://github.com/bayux/wooionic3.git.   
+ > cd /app.   
+ > npm install.  
+ > ionic serve.   
